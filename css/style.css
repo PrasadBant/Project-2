@@ -1,0 +1,56 @@
+section>div{
+    background-color: ;
+}
+.profile{
+    margin-left: -180px;
+}
+svg.bi{
+
+margin-left: 2px;
+}
+body>nav{
+    margin-top: -8px;
+}
+.featurette{
+    margin-top: -80px;
+    background-color:aliceblue;
+    padding-top: 70px;
+
+    
+}
+.navbar {
+    background-color: #333; /* Example background color */
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    opacity: 80%;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    /* color: #f2f2f2; Example text color */
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #ddd; /* Example hover background color */
+    color: black; /* Example hover text color */
+}
+.dog{
+ margin-left:30px;
+}
+.lead{
+    margin-top: 20px;
+}
+.orange{
+    margin-bottom: 50px;
+    margin-left: 39px;
+}
+.apple{
+    margin-left: 28px;
+ 
+}
